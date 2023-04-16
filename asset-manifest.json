@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.796da47f.chunk.css",
+    "main.js": "/static/js/main.bc25c85f.chunk.js",
+    "main.js.map": "/static/js/main.bc25c85f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ccacdb1e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ccacdb1e.js.map",
+    "static/js/2.97563c15.chunk.js": "/static/js/2.97563c15.chunk.js",
+    "static/js/2.97563c15.chunk.js.map": "/static/js/2.97563c15.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.796da47f.chunk.css.map": "/static/css/main.796da47f.chunk.css.map",
+    "static/js/2.97563c15.chunk.js.LICENSE.txt": "/static/js/2.97563c15.chunk.js.LICENSE.txt",
+    "static/media/Contact.7d0b3004.jpg": "/static/media/Contact.7d0b3004.jpg",
+    "static/media/ProgResApp1.a7fc07c6.png": "/static/media/ProgResApp1.a7fc07c6.png",
+    "static/media/btob.2e674695.png": "/static/media/btob.2e674695.png",
+    "static/media/discord.1761b39c.png": "/static/media/discord.1761b39c.png",
+    "static/media/follow.9687f7c2.png": "/static/media/follow.9687f7c2.png",
+    "static/media/podcast.322a3cf1.png": "/static/media/podcast.322a3cf1.png",
+    "static/media/recherche.b2c45d5a.png": "/static/media/recherche.b2c45d5a.png",
+    "static/media/wifi.c8c4ea2f.png": "/static/media/wifi.c8c4ea2f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccacdb1e.js",
+    "static/js/2.97563c15.chunk.js",
+    "static/css/main.796da47f.chunk.css",
+    "static/js/main.bc25c85f.chunk.js"
+  ]
+}
